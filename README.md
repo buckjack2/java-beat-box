@@ -15,7 +15,7 @@ First run "BeatBoxServer"
 Second run "BeatBoxClient"
 
 Next use "check boxes" to create song.
-##Reason for making
+## Reason for making
 Learning and training Java Developer skills.
 
 Learning to work with Sounds and Network.
